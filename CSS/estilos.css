@@ -1,0 +1,31 @@
+body{
+    background-image:url('https://mms.businesswire.com/media/20180506005064/pt/655974/5/Dubai_Adds_200MW_Solar_Energy_%28Photo_1_-_AETOSWire%29.jpg?download=1');
+    background-size:1000px;
+   font-family:Arial;
+  }
+  .menu{
+    background-color:white;
+  }
+  .menu ul {
+    display: flex;
+    justify-content:space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration:none;
+  }
+  a: hover {
+    text-decoration:underline;
+  }
+  .site-subtitle,
+  .site-title{
+    color:blacksmoke;
+    text-align:center;
+  }
+  .site-subtitle{
+    font-style:italic;
+  }
+  
